@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.7495299744,
+              35.7405399984
+            ],
+            [
+              -117.7422264169,
+              35.7472081889
+            ],
+            [
+              -117.7521555454,
+              35.7536368252
+            ]
+          ]
+        ]
+      },
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "name": "AirportLake,Subsection0",
+        "popupContent": "sid:1 fault:AirportLake,Subsection0"
+      }
+    }
+  ]
+}
