@@ -1,0 +1,14 @@
+# conda env create environment.yml
+name: folium
+channels:
+  - ioos
+dependencies:
+  - cartopy
+  - folium
+  - mpld3
+  - numpy
+  - oceans
+  - pandas
+  - pillow
+  - scipy
+  - vincent
